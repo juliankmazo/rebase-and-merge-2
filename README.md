@@ -7,3 +7,4 @@ My first commit
 My second commit
 
 Non production ready
+Hot fix
